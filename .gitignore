@@ -25,6 +25,9 @@ results/
 *.pt
 *.ckpt
 *.safetensors
+*.tar.gz
+*.ckpt
+*.safetensors
 *.zip
 *.tar
 *.tar.gz
